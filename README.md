@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  Bienvenido a mi perfil de GitHub. Soy <strong>Analista de Datos Junior</strong> con formación en <strong>Marketing </strong> apasionado por encontrar valor en los datos y generar soluciones basadas en evidencia.
+  Bienvenido a mi perfil de GitHub.Soy <strong>Analista de Datos Junior</strong>strong> con formación en <strong>Marketing</strong>, apasionado por descubrir insights valiosos y transformar datos en soluciones estratégicas basadas en evidencia.
 </p>
 
 ---
