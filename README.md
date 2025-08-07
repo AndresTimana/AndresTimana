@@ -40,9 +40,7 @@
 1. **Análisis de ventas de videojuegos – 2025**  
    - **Tecnologías:** Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Jupyter Notebook  
    - **Resumen:** Analicé más de 16,000 títulos para entender cómo las plataformas, géneros, regiones y puntuaciones afectan las ventas de videojuegos. Apliqué estadística descriptiva, correlacional y pruebas de hipótesis para detectar patrones significativos.  
-   - **Impacto:** Identifiqué que la PS4 y PC presentan mayor estabilidad en ventas. El género de acción lidera en América y Europa, mientras que el RPG destaca en Japón. Las calificaciones de usuarios no son predictoras fuertes de ventas, y se reveló que plataformas con baja popularidad desaparecen entre 4 y 6 años, mientras que las exitosas se mantienen por más de una década. Estos hallazgos permiten optimizar estrategias de marketing y decisiones de inversión en el sector.
-
-
+   - **Impacto:** El género de acción lidera en América y Europa, mientras que el RPG destaca en Japón. Las calificaciones de usuarios no son predictoras fuertes de ventas, y se reveló que plataformas con baja popularidad desaparecen entre 4 y 6 años, mientras que las exitosas se mantienen por más de una década. Estos hallazgos permiten optimizar estrategias de marketing y decisiones de inversión en el sector.
 
 2. **Analisis de tarifas para telecomunicaciones – 2025**  
    - **Tecnologías:** Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Jupyter Notebook  
