@@ -42,10 +42,10 @@
    - **Resumen:** Digitalicé la gestión de pedidos e inventario en una cafetería. Automatización total de caja diaria, registro de pedidos y créditos.  
    - **Impacto:** Reducción del 90% en errores manuales y mejora en la toma de decisiones operativas.
 
-2. **Visualización de Ventas en E-commerce – TripleTen (2025)**  
-   - **Tecnologías:** SQL, Tableau  
-   - **Resumen:** Análisis de comportamiento de clientes en tienda online con dashboards interactivos.  
-   - **Impacto:** Identificación de productos clave y patrones regionales de compra.
+2. **Analisis de tarifas para telecomunicaciones – 2025**  
+   - **Tecnologías:** Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Jupyter Notebook  
+   - **Resumen:** Analicé el comportamiento mensual de 500 usuarios móviles para comparar ingresos generados por los planes Surf y Ultimate. Apliqué pruebas estadísticas para determinar diferencias por plan y región.
+   - **Impacto:** Identifiqué que usuarios del plan Surf generan ingresos similares al plan Ultimate debido a excedentes. La reubicación de clientes podría reducir sus gastos en un 30% promedio y optimizar la rentabilidad general del negocio.
 
 3. **Análisis de Créditos Financieros – TripleTen (2025)**  
    - **Tecnologías:** Python, Pandas, Seaborn  
