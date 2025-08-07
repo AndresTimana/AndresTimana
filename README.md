@@ -47,10 +47,12 @@
    - **Resumen:** Analicé el comportamiento mensual de 500 usuarios móviles para comparar ingresos generados por los planes Surf y Ultimate. Apliqué pruebas estadísticas para determinar diferencias por plan y región.
    - **Impacto:** Identifiqué que usuarios del plan Surf generan ingresos similares al plan Ultimate debido a excedentes. La reubicación de clientes podría reducir sus gastos en un 30% promedio y optimizar la rentabilidad general del negocio.
 
-3. **App para Gestión de Pedidos e Inventario – 2024**  
-   - **Tecnologías:** AppSheet, Google Sheets, Apps Script  
-   - **Resumen:** Digitalicé la gestión de pedidos e inventario en una cafetería. Automatización total de caja diaria, registro de pedidos y créditos.  
-   - **Impacto:** Reducción del 90% en errores manuales y mejora en la toma de decisiones operativas.
+3. **Optimización de Gastos de Marketing | 2025**  
+   - **Tecnologías:**  Python, Pandas, NumPy, Matplotlib, Seaborn, Jupyter Notebook
+   - **Resumen:** Analicé datos de visitas, pedidos y costos publicitarios para evaluar la rentabilidad de distintas fuentes de adquisición y mejorar la eficiencia del gasto en marketing.
+   - **Impacto:** Identifiqué fuentes con retorno negativo, recomendando reinversión hacia canales con ROMI positivo. Propuse reducir inversión en plataformas con bajo LTV, lo que podría mejorar la eficiencia presupuestaria hasta un 25%.
+
+
 
 ---
 
