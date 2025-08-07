@@ -37,20 +37,22 @@
 
 ### 📌 Proyectos Destacados
 
-1. **App para Gestión de Pedidos e Inventario – Asprounión (2024)**  
-   - **Tecnologías:** AppSheet, Google Sheets, Apps Script  
-   - **Resumen:** Digitalicé la gestión de pedidos e inventario en una cafetería. Automatización total de caja diaria, registro de pedidos y créditos.  
-   - **Impacto:** Reducción del 90% en errores manuales y mejora en la toma de decisiones operativas.
+1. **Análisis de ventas de videojuegos – 2025**  
+   - **Tecnologías:** Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Jupyter Notebook  
+   - **Resumen:** Analicé más de 16,000 títulos para entender cómo las plataformas, géneros, regiones y puntuaciones afectan las ventas de videojuegos. Apliqué estadística descriptiva, correlacional y pruebas de hipótesis para detectar patrones significativos.  
+   - **Impacto:** Identifiqué que la PS4 y PC presentan mayor estabilidad en ventas. El género de acción lidera en América y Europa, mientras que el RPG destaca en Japón. Las calificaciones de usuarios no son predictoras fuertes de ventas, y se reveló que plataformas con baja popularidad desaparecen entre 4 y 6 años, mientras que las exitosas se mantienen por más de una década. Estos hallazgos permiten optimizar estrategias de marketing y decisiones de inversión en el sector.
+
+
 
 2. **Analisis de tarifas para telecomunicaciones – 2025**  
    - **Tecnologías:** Python, Pandas, NumPy, Matplotlib, Seaborn, SciPy, Jupyter Notebook  
    - **Resumen:** Analicé el comportamiento mensual de 500 usuarios móviles para comparar ingresos generados por los planes Surf y Ultimate. Apliqué pruebas estadísticas para determinar diferencias por plan y región.
    - **Impacto:** Identifiqué que usuarios del plan Surf generan ingresos similares al plan Ultimate debido a excedentes. La reubicación de clientes podría reducir sus gastos en un 30% promedio y optimizar la rentabilidad general del negocio.
 
-3. **Análisis de Créditos Financieros – TripleTen (2025)**  
-   - **Tecnologías:** Python, Pandas, Seaborn  
-   - **Resumen:** Exploración de datos crediticios para detectar factores asociados a incumplimientos.  
-   - **Impacto:** Visualizaciones claras para apoyar decisiones en procesos de riesgo.
+3. **App para Gestión de Pedidos e Inventario – 2024**  
+   - **Tecnologías:** AppSheet, Google Sheets, Apps Script  
+   - **Resumen:** Digitalicé la gestión de pedidos e inventario en una cafetería. Automatización total de caja diaria, registro de pedidos y créditos.  
+   - **Impacto:** Reducción del 90% en errores manuales y mejora en la toma de decisiones operativas.
 
 ---
 
