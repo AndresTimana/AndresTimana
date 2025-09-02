@@ -58,7 +58,7 @@
 
 ### 📫 ¡Conectemos!
 - 📧 **Correo:** felipetimanagamboa@gmail.com  
-- 💼 **LinkedIn:** [linkedin.com/in/andres-timana](https://www.linkedin.com/in/andres-timana/)    
+- 💼 **LinkedIn:** [linkedin.com/in/andres-timana](https://www.linkedin.com/in/andrestimana-analistadedatos/)    
 
 ---
 
